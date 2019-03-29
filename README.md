@@ -9,4 +9,4 @@ Rozwiązania, technologie i narzędzia:
    * Bootstrap 4 (grid)
    * npm (task runner)
 
-<a href="https://michalmatysiak.github.io/">Home page Michał</a>
+<a href="https://michalmatysiak-homePage/">Home page Michał</a>
